@@ -1,0 +1,4 @@
+spotapi
+Pillow
+requests
+mutagen
